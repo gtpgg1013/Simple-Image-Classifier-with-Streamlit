@@ -6,5 +6,4 @@
 
 ## How to Run
 
-- run_fastapi.bat
-- run_streamlist.bat
+- run.bat (on CMD)
